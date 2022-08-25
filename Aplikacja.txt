@@ -8,4 +8,8 @@ public class Hello {
         System.out.println("Hello world logowanie microsoft");
 		System.out.println("Hello world logowanie gooogle");
     }
+public class PrzypomnijHaslo {
+    public static void main(String[] args) {
+        System.out.println("Przypomnij haslo");
+    }
 }
