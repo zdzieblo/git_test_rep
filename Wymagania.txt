@@ -6,3 +6,6 @@ System.out.println("Hello world testtt");
 public static void passwordReminder(){
 		System.out.println("Password reminder")
 }
+public static void passwordReminder(){
+		System.out.println("Password reminderfghfgh")
+}
