@@ -9,3 +9,6 @@ public static void passwordReminder(){
 public static void passwordReminder(){
 		System.out.println("Password reminderfghfgh")
 }
+public static void passwordReminder(){
+		System.out.println("Password reminderfghfgh")
+}
